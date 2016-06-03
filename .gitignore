@@ -16,7 +16,7 @@
 /tmp
 
 # NetBeans specific #
-bproject/private/
+nbproject/private/
 build/
 nbbuild/
 dist/
